@@ -1,0 +1,6 @@
+[submodule "SmartHome-Android"]
+	path = SmartHome-Android
+	url = https://github.com/bytebane/SmartHome-Android
+[submodule "SmartHome-HW"]
+	path = SmartHome-HW
+	url = https://github.com/bytebane/SmartHome-HW
